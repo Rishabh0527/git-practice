@@ -1,3 +1,1 @@
-Hello Git
-I am learning GIT
-Git is Important for devops
+Testing Reset
