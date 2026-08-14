@@ -1,3 +1,4 @@
 Testing Reset
 Feature login added
 Feature payment added
+Notify feature added
